@@ -1,0 +1,3 @@
+[submodule "sshkeys"]
+	path = sshkeys
+	url = git@github.com:grleblanc/sshkeys.git
